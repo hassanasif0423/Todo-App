@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,UACE,qBACF","file":"main.5e1ce892.chunk.css","sourcesContent":[".main_div{\n  background-color: gray;\n}\n\n/* p.ex1 {\n  margin-right: 50%; */\n/* } */\n"]}
